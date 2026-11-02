@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "matheustimbo.overview",
+  "name": "Overview",
+  "version": "1.0.0",
+  "author": "matheustimbo",
+  "description": "macOS Mission Control-style overview of every workspace with live window thumbnails, driven 1:1 by a three-finger swipe.",
+  "kinds": [
+    "overlay"
+  ],
+  "keepLoaded": true,
+  "entryPoints": {
+    "overlay": "Overview.qml"
+  }
+}
